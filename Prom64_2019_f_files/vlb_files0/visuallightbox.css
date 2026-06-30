@@ -135,22 +135,22 @@
 	margin:2px; width:24px;height:24px; background-position:left 100%;
 	background-image:url(navigation.png);
 	_background:none;
-	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_f_files/vlb_files0/prev-32grey.png', sizingMethod='scale');
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_files/vlb_files0/prev-32grey.png', sizingMethod='scale');
 }
 #vlb0prevLinkDetails:hover {
 	background-position:0 0;
-	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_f_files/vlb_files0/prev-32color.png', sizingMethod='scale');
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_files/vlb_files0/prev-32color.png', sizingMethod='scale');
 }
 
 #vlb0nextLinkDetails {
 	margin:2px; width:24px;height:24px; background-position:right 100%;
 	background-image:url(navigation.png);
 	_background:none;
-	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_f_files/vlb_files0/next32-grey.png', sizingMethod='scale');
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_files/vlb_files0/next32-grey.png', sizingMethod='scale');
 }
 #vlb0nextLinkDetails:hover {
 	background-position:100% 0;
-	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_f_files/vlb_files0/next32-color.png', sizingMethod='scale');
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_files/vlb_files0/next32-color.png', sizingMethod='scale');
 }
 #vlb0slideShowControl{
 	display:block;
@@ -162,19 +162,19 @@
 	background-position:-24px 100%;
 	background-repeat:no-repeat;
 	_background:none;
-	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_f_files/vlb_files0/start32grey.png', sizingMethod='scale');
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_files/vlb_files0/start32grey.png', sizingMethod='scale');
 }
 #vlb0slideShowControl:hover{
 	background-position:-24px 0;
-	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_f_files/vlb_files0/start32color.png', sizingMethod='scale');
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_files/vlb_files0/start32color.png', sizingMethod='scale');
 }
 #vlb0slideShowControl.started{
 	background-position:-48px 100%;
-	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_f_files/vlb_files0/pause32grey.png', sizingMethod='scale');
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_files/vlb_files0/pause32grey.png', sizingMethod='scale');
 }
 #vlb0slideShowControl.started:hover{
 	background-position:-48px 0;
-	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_f_files/vlb_files0/pause32color.png', sizingMethod='scale');
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_files/vlb_files0/pause32color.png', sizingMethod='scale');
 }
 
 #vlb0close{
@@ -195,11 +195,11 @@
 	height:34px;
 	background:url(close.png) no-repeat 0 100%;
 	_background:none;
-	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_f_files/vlb_files0/cancel48grey.png', sizingMethod='scale');
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_files/vlb_files0/cancel48grey.png', sizingMethod='scale');
 }
 #vlb0closeLink:hover{
 	background-position:0 0;
-	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_f_files/vlb_files0/cancel48color.png', sizingMethod='scale');
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_files/vlb_files0/cancel48color.png', sizingMethod='scale');
 }
 
 .clearfix:after { content:"."; display:block; height:0; clear:both; visibility:hidden;}
@@ -228,7 +228,7 @@
 #vlb0lightboxFrameBody{
 	background:url(back_info.png);
 	_background:none;
-	_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_f_files/vlb_files0/back_info.png', sizingMethod='scale');
+	_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_files/vlb_files0/back_info.png', sizingMethod='scale');
 }
 
 #vlb0outerImageContainer td, #vlb0outerImageContainer tr{
@@ -245,40 +245,40 @@
 #vlb0outerImageContainer td.tl{
 	background:url(back_corvers.png) 0 0;
 	_background-image:none;
-	_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_f_files/vlb_files0/back_lt.png', sizingMethod='scale');
+	_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_files/vlb_files0/back_lt.png', sizingMethod='scale');
 }
 #vlb0outerImageContainer td.tc{
 	background:url(back_tb.png) 50% 0;
 	_background:none;
-	_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_f_files/vlb_files0/back_ct.png', sizingMethod='scale');
+	_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_files/vlb_files0/back_ct.png', sizingMethod='scale');
 }
 #vlb0outerImageContainer td.tr{
 	background:url(back_corvers.png) 100% 0;
 	_background-image:none;
-	_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_f_files/vlb_files0/back_rt.png', sizingMethod='scale');
+	_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_files/vlb_files0/back_rt.png', sizingMethod='scale');
 }
 #vlb0outerImageContainer td.ml{
 	background:url(back_lr.png) 0 50%;
 	_background-image:none;
-	_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_f_files/vlb_files0/back_lc.png', sizingMethod='scale');
+	_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_files/vlb_files0/back_lc.png', sizingMethod='scale');
 }
 #vlb0outerImageContainer td.mr{
 	background:url(back_lr.png) 100% 50%;
 	_background-image:none;
-	_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_f_files/vlb_files0/back_rc.png', sizingMethod='scale');
+	_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_files/vlb_files0/back_rc.png', sizingMethod='scale');
 }
 #vlb0outerImageContainer td.bl{
 	background:url(back_corvers.png) 0 100%;
 	_background-image:none;
-	_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_f_files/vlb_files0/back_lb.png', sizingMethod='scale');
+	_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_files/vlb_files0/back_lb.png', sizingMethod='scale');
 }
 #vlb0outerImageContainer td.bc{
 	background:url(back_tb.png) 50% 100%;
 	_background-image:none;
-	_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_f_files/vlb_files0/back_cb.png', sizingMethod='scale');
+	_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_files/vlb_files0/back_cb.png', sizingMethod='scale');
 }
 #vlb0outerImageContainer td.br{
 	background:url(back_corvers.png) 100% 100%;
 	_background-image:none;
-	_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_f_files/vlb_files0/back_rb.png', sizingMethod='scale');
+	_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Prom64_2019_files/vlb_files0/back_rb.png', sizingMethod='scale');
 }
